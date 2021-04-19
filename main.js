@@ -70,7 +70,7 @@ var language = {
   fr: {
     title1: "Entrez votre prénom ici :)",
     submit_button: "Commencer l'histoire !",
-    skip_button: "Passer l'animation du text",
+    skip_button: "Passer l'animation du texte",
     stop_button: "Cliquez ici si vous ne voulez pas aller plus loin...",
     restartbutton: "Recommencer",
     first_step:
@@ -90,7 +90,7 @@ var first_step = document.getElementById("first_step");
 
 var typewriter = new Typewriter(first_step, {
   loop: false,
-  delay: 75,
+  delay: 45,
 });
 
 // Button to skip typewriter animation---------------------------------------------------------------
@@ -148,7 +148,7 @@ function delete_text() {
 
   var typewriter = new Typewriter(text_disappear, {
     loop: false,
-    delay: 75,
+    delay: 45,
     autoStart: false,
   });
 
@@ -177,7 +177,7 @@ var last_step = document.getElementById("last_step");
 
 var typewriter_last = new Typewriter(last_step, {
   loop: false,
-  delay: 75,
+  delay: 45,
 });
 
 // // Button to skip typewriter animation---------------------------------------------------------------
