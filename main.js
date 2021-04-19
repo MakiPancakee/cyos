@@ -20,25 +20,21 @@ document.getElementById("last_restart").style.visibility = "hidden";
 
 // ############################################################################################################## BACKGROUND CHANGE
 // Change the background for the story screen -----------------------------------------------------
-function bgChange1() {
-  document.getElementById("bgChange").style.backgroundImage =
+function bgChange(value){
+  if (value == 1){
+      document.getElementById("bgChange").style.backgroundImage =
     "url('img/pattern1.jpeg')";
-};
-
-function bgChange2() {
-  document.getElementById("bgChange").style.backgroundImage =
+  } else if (value == 2){
+    document.getElementById("bgChange").style.backgroundImage =
     "url('img/pattern2.jpeg')";
-};
-
-function bgChange3() {
-  document.getElementById("bgChange").style.backgroundImage =
+  } else if (value == 3) {
+    document.getElementById("bgChange").style.backgroundImage =
     "url('img/pattern3.jpeg')";
-};
-
-function bgChange4() {
-  document.getElementById("bgChange").style.backgroundImage =
+  } else {
+    document.getElementById("bgChange").style.backgroundImage =
     "url('img/pattern4.jpeg')";
-};
+  }
+}
 
 // ####################################################################################################################### LANGUAGE
 
