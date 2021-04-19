@@ -1,4 +1,4 @@
-FRENCH :
+FRANCAIS :
 
 CYOS était à l'origine un site où l'utilisateur pouvait choisir des réponses dans une histoire et, de ce fait, créer sa propre histoire.
 
