@@ -17,6 +17,8 @@ Ajax
 Jquery
 Bootstrap (css et js)
 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ENGLISH : 
 
@@ -27,6 +29,8 @@ I choose to transform it in a little funny and interactive CV in order to train 
 Instead of playing with some stories, you can learn one or two thing about me. It is not a lot, but it was an exercise ;)
 Brace yourself to the end for a little surprise, or abandon before, the choice is up to you !
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 This site is exclusively in HTML, CSS and Javascript.
 
 Libraries used : 
@@ -35,6 +39,8 @@ Ajax
 Jquery
 Bootstrap (css and js)
 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
 
 CREDITS : 
 <!-- title animation -->
