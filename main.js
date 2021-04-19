@@ -56,28 +56,28 @@ var language = {
   eng: {
     title1: "Insert your name here :)",
     submit_button: "Start the story !",
-    skip_button: "Skip",
+    skip_button: "Skip the text animation",
     stop_button: "Click here if don't want to go further...",
     restartbutton: "Restart",
     first_step:
       "The story you will read today is about a 24-years-old passionnate girl whose name is Mathilde. Her head is filled with dreams and stories, worlds which are unexplored and unsolved cases, which drove her to developp a huge interest in writing and reading. She became interested in digital technology, and more particularly in web development after studying Japanese and decided to make it her future career. She is a beginner but she is eager to learn. She never stops persevering, even in front of the most persistent bugs.",
     last_step:
       "Well, now you know. You know who she is, what she loves, and why she won't be a wrong choice. Will you believe in her ?",
-    skip_last:"Skip",
+    skip_last:"Skip the text animation",
     celebrate:"You do ?",
     sad:"You don't ?",
   },
   fr: {
     title1: "Entrez votre prénom ici :)",
     submit_button: "Commencer l'histoire !",
-    skip_button: "Passer",
+    skip_button: "Passer l'animation du text",
     stop_button: "Cliquez ici si vous ne voulez pas aller plus loin...",
     restartbutton: "Recommencer",
     first_step:
-      "L'histoire que je vais vous conter aujourd'hui n'est autre que l'histoire d'une jeune fille passionnée de 24 ans qui s'appelle Mathilde. Elle a la tête pleine de rêves et d'histoires, de mondes à découvrir et d'enquêtes à elucider, ce qui l'a conduite à développer un intérêt infini pour l'écriture et la lecture. Elle a commencé à s'intéresser au numérique, et plus particulièrement au développement web après avoir fait des études de japonais et décide d'en faire sa future carrière. Elle est débutante mais elle a soif d'apprendre. Elle ne cesse de persevérer, même face aux bugs les plus persistents.",
+      "L'histoire que je vais vous conter aujourd'hui n'est autre que l'histoire d'une jeune fille passionnée de 24 ans qui s'appelle Mathilde. Elle a la tête pleine de rêves et d'histoires, de mondes à découvrir et d'enquêtes à elucider, ce qui l'a conduite à développer un intérêt infini pour l'écriture et la lecture. Elle a commencé à s'intéresser au numérique, et plus particulièrement au développement web après avoir fait des études de japonais et décide d'en faire sa future carrière. Elle est débutante mais elle a soif d'apprendre. Elle ne cesse de persevérer, même face aux bugs les plus persistants.",
     last_step:
       "Maintenant vous savez. Vous savez qui elle est, ce qu'elle aime et pourquoi elle ne serait pas un mauvais choix. Est-ce que vous allez lui faire confiance ?",
-    skip_last:"Passer",
+    skip_last:"Passer l'animation du texte",
     celebrate:"C'est un oui ?",
     sad:"C'est un non ?",
   },
