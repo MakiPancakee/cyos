@@ -1,3 +1,4 @@
+location.hash = "#fr";
 // ############################################################################################################# DISAPPEAR & CHEATS
 // When click on the button, the input and background disappear without changing page
 function validInput() {
